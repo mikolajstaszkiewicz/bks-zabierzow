@@ -2,26 +2,82 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
 <title type="text">BKS SMOK</title>
 <generator uri="https://github.com/mojombo/jekyll">Jekyll</generator>
-<link rel="self" type="application/atom+xml" href="https://swiety1990.github.io/bks-zabierzow/feed.xml" />
-<link rel="alternate" type="text/html" href="https://swiety1990.github.io/bks-zabierzow" />
-<updated>2017-11-18T17:14:46+01:00</updated>
-<id>https://swiety1990.github.io/bks-zabierzow/</id>
+<link rel="self" type="application/atom+xml" href="http://www.boks-zabierzow.pl/feed.xml" />
+<link rel="alternate" type="text/html" href="http://www.boks-zabierzow.pl" />
+<updated>2018-02-25T12:38:50+01:00</updated>
+<id>http://www.boks-zabierzow.pl/</id>
 <author>
   <name></name>
-  <uri>https://swiety1990.github.io/bks-zabierzow/</uri>
+  <uri>http://www.boks-zabierzow.pl/</uri>
   
 </author>
 
 
 <entry>
+  <title type="html"><![CDATA[ZAWODNIK BKS SMOK-ZABIRZÓW MISTRZEM MAŁOPOLSKI W BOKSIE 2018 r.]]></title>
+ <link rel="alternate" type="text/html" href="http://www.boks-zabierzow.pl/mistrzostwa-malopolski/" />
+  <id>http://www.boks-zabierzow.pl/mistrzostwa-malopolski</id>
+  <published>2018-02-17T00:00:00+01:00</published>
+  <updated>2018-02-17T00:00:00+01:00</updated>
+  <author>
+    <name></name>
+    <uri>http://www.boks-zabierzow.pl</uri>
+    <email></email>
+  </author>
+  <content type="html">
+    &lt;p&gt;W dniach 17-18 luty 2018r. w miejscowości Gnojnik, odbyły się Mistrzostwa Małopolski
+w boksie.&lt;/p&gt;
+
+&lt;p&gt;SERHIJ KISHKO, reprezentant Bokserskiego Klubu Sportowego Smok Zabierzów, zajął
+pierwsze miejsce i zdobył tytuł Mistrza Małopolski seniorów w boksie w kategorii wagowej
+60 kg.&lt;/p&gt;
+
+&lt;p&gt;Nasz drugi reprezentant Michał Cyganik, pokonał w półfinale Konrada Gajosa zawodnika z
+Krakowskiego Klubu Bokserskiego i będzie walczył o tytuł Mistrza Małopolski seniorów w
+kategorii wagowej 81kg w dniu 17 marca 2018r. w Czchowie.&lt;/p&gt;
+
+&lt;p&gt;Jednocześnie informujemy, że Małopolski Związek Bokserski podsumował
+Międzynarodowe Grand Prix Małopolski 2017. Dwóch naszych zawodników znalazło się
+na PIERWSZYM miejscu rankingu!&lt;/p&gt;
+
+&lt;p&gt;W podsumowaniu, jako laureaci, na 1 miejscu zostali wyróżnieni:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Serhij Kishko w kat. 60 kg (senior),&lt;/li&gt;
+  &lt;li&gt;Michał Cyganik w kat. 81 kg (senior).&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Serdecznie gratulujemy sukcesów!!!&lt;/p&gt;
+
+&lt;p&gt;W punktacji drużynowej BKS SMOK Zabierzów znalazł się na wysokim 9 miejscu rankingu
+z wszystkich 43 klasyfikowanych klubów.&lt;/p&gt;
+
+&lt;p&gt;Szczegóły pod linkiem: &lt;a href=&quot;http://mzb.org.pl/miedzynarodowe-grand-prix-malopolski-2017-podsumowanie/&quot;&gt;GRAND PRIX MAŁOPOLSKI 2017&lt;/a&gt;&lt;/p&gt;
+
+&lt;figure class=&quot;third&quot;&gt;
+    
+    &lt;a href=&quot;/images/2018/02/mistrzostwa-malopolski-1.jpg&quot;&gt;&lt;img src=&quot;/images/2018/02/mistrzostwa-malopolski-1.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
+    
+    &lt;a href=&quot;/images/2018/02/mistrzostwa-malopolski-2.jpg&quot;&gt;&lt;img src=&quot;/images/2018/02/mistrzostwa-malopolski-2.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
+    
+    &lt;a href=&quot;/images/2018/02/mistrzostwa-malopolski-3.jpg&quot;&gt;&lt;img src=&quot;/images/2018/02/mistrzostwa-malopolski-3.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
+    
+    &lt;figcaption&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+    &lt;p&gt;&lt;a href=&quot;http://www.boks-zabierzow.pl/mistrzostwa-malopolski/&quot;&gt;ZAWODNIK BKS SMOK-ZABIRZÓW MISTRZEM MAŁOPOLSKI W BOKSIE 2018 r.&lt;/a&gt; was originally published by  at &lt;a href=&quot;http://www.boks-zabierzow.pl&quot;&gt;BKS SMOK&lt;/a&gt; on February 17, 2018.&lt;/p&gt;
+  </content>
+</entry>
+
+
+<entry>
   <title type="html"><![CDATA[Udany start pięściarzy z Bokserskiego Klubu Sportowego SMOK ZABIERZÓW]]></title>
- <link rel="alternate" type="text/html" href="https://swiety1990.github.io/bks-zabierzow/turniej-gieraltowice/" />
-  <id>https://swiety1990.github.io/bks-zabierzow/turniej-gieraltowice</id>
+ <link rel="alternate" type="text/html" href="http://www.boks-zabierzow.pl/turniej-gieraltowice/" />
+  <id>http://www.boks-zabierzow.pl/turniej-gieraltowice</id>
   <published>2017-09-23T00:00:00+01:00</published>
   <updated>2017-09-23T00:00:00+01:00</updated>
   <author>
     <name></name>
-    <uri>https://swiety1990.github.io/bks-zabierzow</uri>
+    <uri>http://www.boks-zabierzow.pl</uri>
     <email></email>
   </author>
   <content type="html">
@@ -36,10 +92,10 @@
 &lt;/ul&gt;
 
 &lt;figure class=&quot;center&quot;&gt;
-	&lt;img src=&quot;https://swiety1990.github.io/bks-zabierzow/images/foto_389.jpg&quot; alt=&quot;&quot; /&gt;
+	&lt;img src=&quot;/images/foto_389.jpg&quot; alt=&quot;&quot; /&gt;
 &lt;/figure&gt;
 
-    &lt;p&gt;&lt;a href=&quot;https://swiety1990.github.io/bks-zabierzow/turniej-gieraltowice/&quot;&gt;Udany start pięściarzy z Bokserskiego Klubu Sportowego SMOK ZABIERZÓW&lt;/a&gt; was originally published by  at &lt;a href=&quot;https://swiety1990.github.io/bks-zabierzow&quot;&gt;BKS SMOK&lt;/a&gt; on September 23, 2017.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;http://www.boks-zabierzow.pl/turniej-gieraltowice/&quot;&gt;Udany start pięściarzy z Bokserskiego Klubu Sportowego SMOK ZABIERZÓW&lt;/a&gt; was originally published by  at &lt;a href=&quot;http://www.boks-zabierzow.pl&quot;&gt;BKS SMOK&lt;/a&gt; on September 23, 2017.&lt;/p&gt;
   </content>
 </entry>
 

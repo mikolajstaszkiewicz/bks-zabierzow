@@ -1,10 +1,18 @@
 [
   
     {
+      "title"    : "ZAWODNIK BKS SMOK-ZABIRZÓW MISTRZEM MAŁOPOLSKI W BOKSIE 2018 r.",
+      "category" : "",
+      "tags"     : "boks, turniej, mistrzostwa małopolski",
+      "url"      : "http://www.boks-zabierzow.pl/mistrzostwa-malopolski/",
+      "date"     : "2018-02-17 00:00:00 +0100"
+    } ,
+  
+    {
       "title"    : "Udany start pięściarzy z Bokserskiego Klubu Sportowego SMOK ZABIERZÓW",
       "category" : "",
       "tags"     : "boks, turniej",
-      "url"      : "https://swiety1990.github.io/bks-zabierzow/turniej-gieraltowice/",
+      "url"      : "http://www.boks-zabierzow.pl/turniej-gieraltowice/",
       "date"     : "2017-09-23 00:00:00 +0100"
     } 
   
