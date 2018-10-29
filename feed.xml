@@ -4,7 +4,7 @@
 <generator uri="https://github.com/mojombo/jekyll">Jekyll</generator>
 <link rel="self" type="application/atom+xml" href="http://www.boks-zabierzow.pl/feed.xml" />
 <link rel="alternate" type="text/html" href="http://www.boks-zabierzow.pl" />
-<updated>2018-09-16T00:19:55+02:00</updated>
+<updated>2018-10-29T19:37:11+01:00</updated>
 <id>http://www.boks-zabierzow.pl/</id>
 <author>
   <name></name>
@@ -14,11 +14,38 @@
 
 
 <entry>
+  <title type="html"><![CDATA[Udany występ zawodniczki Bokserskiego Klubu Sportowego SMOK ZABIERZÓW]]></title>
+ <link rel="alternate" type="text/html" href="http://www.boks-zabierzow.pl/turniej-myslenice/" />
+  <id>http://www.boks-zabierzow.pl/turniej-myslenice</id>
+  <published>2018-09-29T00:00:00+01:00</published>
+  <updated>2018-09-29T00:00:00+01:00</updated>
+  <author>
+    <name></name>
+    <uri>http://www.boks-zabierzow.pl</uri>
+    <email></email>
+  </author>
+  <content type="html">
+    &lt;p&gt;W sobotę 29 września 2018 r. w Myślenicach odbył się turniej bokserski Grand Prix Małopolski w boksie olimpijskim. W turnieju brała udział Monika Puzio, zawodniczka Bokserskiego Klubu Sportowego SMOK ZABIERZÓW.&lt;/p&gt;
+
+&lt;p&gt;Monika startowała w kategorii wagowej 64 kg i wygrała na punkty z Marią Tomczyk z Klubu Bokserskiego Tiger Tarnów.&lt;/p&gt;
+
+&lt;p&gt;Serdecznie gratulujemy wygranej!&lt;/p&gt;
+
+&lt;figure class=&quot;center&quot;&gt;
+	&lt;img src=&quot;/images/2018/09/turniej-myslenice-1.jpg&quot; alt=&quot;Kraków, Zabierzów, boks, Monik Puzio&quot; /&gt;
+&lt;/figure&gt;
+
+    &lt;p&gt;&lt;a href=&quot;http://www.boks-zabierzow.pl/turniej-myslenice/&quot;&gt;Udany występ zawodniczki Bokserskiego Klubu Sportowego SMOK ZABIERZÓW&lt;/a&gt; was originally published by  at &lt;a href=&quot;http://www.boks-zabierzow.pl&quot;&gt;BKS SMOK&lt;/a&gt; on September 29, 2018.&lt;/p&gt;
+  </content>
+</entry>
+
+
+<entry>
   <title type="html"><![CDATA[Zapraszamy na treningi od 4 września!]]></title>
  <link rel="alternate" type="text/html" href="http://www.boks-zabierzow.pl/zapraszamy-na-treningi/" />
   <id>http://www.boks-zabierzow.pl/zapraszamy-na-treningi</id>
-  <published>2018-08-18T00:00:00+02:00</published>
-  <updated>2018-08-18T00:00:00+02:00</updated>
+  <published>2018-08-18T00:00:00+01:00</published>
+  <updated>2018-08-18T00:00:00+01:00</updated>
   <author>
     <name></name>
     <uri>http://www.boks-zabierzow.pl</uri>
@@ -39,8 +66,8 @@ Szczegóły zajęć w zakładce TRENINGI&lt;/p&gt;
   <title type="html"><![CDATA[ZAWODNIK BKS SMOK-ZABIERZÓW MISTRZEM MAŁOPOLSKI W BOKSIE 2018 r.]]></title>
  <link rel="alternate" type="text/html" href="http://www.boks-zabierzow.pl/mistrzostwa-malopolski/" />
   <id>http://www.boks-zabierzow.pl/mistrzostwa-malopolski</id>
-  <published>2018-02-17T00:00:00+02:00</published>
-  <updated>2018-02-17T00:00:00+02:00</updated>
+  <published>2018-02-17T00:00:00+01:00</published>
+  <updated>2018-02-17T00:00:00+01:00</updated>
   <author>
     <name></name>
     <uri>http://www.boks-zabierzow.pl</uri>
@@ -95,8 +122,8 @@ z wszystkich 43 klasyfikowanych klubów.&lt;/p&gt;
   <title type="html"><![CDATA[Udany start pięściarzy z Bokserskiego Klubu Sportowego SMOK ZABIERZÓW]]></title>
  <link rel="alternate" type="text/html" href="http://www.boks-zabierzow.pl/turniej-gieraltowice/" />
   <id>http://www.boks-zabierzow.pl/turniej-gieraltowice</id>
-  <published>2017-09-23T00:00:00+02:00</published>
-  <updated>2017-09-23T00:00:00+02:00</updated>
+  <published>2017-09-23T00:00:00+01:00</published>
+  <updated>2017-09-23T00:00:00+01:00</updated>
   <author>
     <name></name>
     <uri>http://www.boks-zabierzow.pl</uri>

@@ -1,11 +1,19 @@
 [
   
     {
+      "title"    : "Udany występ zawodniczki Bokserskiego Klubu Sportowego SMOK ZABIERZÓW",
+      "category" : "",
+      "tags"     : "boks, turniej",
+      "url"      : "http://www.boks-zabierzow.pl/turniej-myslenice/",
+      "date"     : "2018-09-29 00:00:00 +0100"
+    } ,
+  
+    {
       "title"    : "Zapraszamy na treningi od 4 września!",
       "category" : "",
       "tags"     : "boks, turniej",
       "url"      : "http://www.boks-zabierzow.pl/zapraszamy-na-treningi/",
-      "date"     : "2018-08-18 00:00:00 +0200"
+      "date"     : "2018-08-18 00:00:00 +0100"
     } ,
   
     {
@@ -13,7 +21,7 @@
       "category" : "",
       "tags"     : "boks, turniej, mistrzostwa małopolski",
       "url"      : "http://www.boks-zabierzow.pl/mistrzostwa-malopolski/",
-      "date"     : "2018-02-17 00:00:00 +0200"
+      "date"     : "2018-02-17 00:00:00 +0100"
     } ,
   
     {
@@ -21,7 +29,7 @@
       "category" : "",
       "tags"     : "boks, turniej",
       "url"      : "http://www.boks-zabierzow.pl/turniej-gieraltowice/",
-      "date"     : "2017-09-23 00:00:00 +0200"
+      "date"     : "2017-09-23 00:00:00 +0100"
     } 
   
 ]
