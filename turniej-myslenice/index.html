@@ -10,7 +10,6 @@
 <meta name="keywords" content="boks, turniej">
 
 
-
 <!-- Open Graph -->
 <meta property="og:locale" content="pl_PL">
 <meta property="og:type" content="article">
@@ -69,7 +68,7 @@
 
 </head>
 
-<body id="post" >
+<body>
 
 <!--[if lt IE 9]><div class="upgrade"><strong><a href="http://whatbrowser.org/">Your browser is quite old!</strong> Why not upgrade to a different browser to better enjoy this site?</a></div><![endif]-->
 
@@ -78,21 +77,14 @@
 <div class="header-menu header-menu-top">
     <ul class="header-item-container">
       <li class="header-item-title header-toggle "><a href="#menu"><h2><i class="fa fa-bars"></i></h2></a></li>
-      <!-- <li class="header-item-title">
-        <a href="http://www.boks-zabierzow.pl/">
-          
-            <img class="logo" src="http://www.boks-zabierzow.pl/images/logo.png" alt="BKS SMOK">
-          
-          <a href="http://www.boks-zabierzow.pl/" class="title"> BKS SMOK</a>
-        </a>
-      </li>-->
+
       
         
         
 
         
             
-                <li class="header-item "><a href="http://www.boks-zabierzow.pl/treningi-zapisy"><h3>Treningi - Zapisy</h3></a></li>
+                <li class="header-item " id="zapisy"><a href="http://www.boks-zabierzow.pl/treningi-zapisy"><h3>Treningi - Zapisy</h3></a></li>
             
         
       
@@ -101,7 +93,7 @@
 
         
             
-                <li class="header-item "><a href="http://www.boks-zabierzow.pl/"><h3>Aktualności</h3></a></li>
+                <li class="header-item " id="aktualnosci"><a href="http://www.boks-zabierzow.pl/"><h3>Aktualności</h3></a></li>
             
         
       
@@ -110,7 +102,7 @@
 
         
             
-                <li class="header-item "><a href="http://www.boks-zabierzow.pl/kadra-trenerska"><h3>Kadra trenerska</h3></a></li>
+                <li class="header-item " id="kadra"><a href="http://www.boks-zabierzow.pl/kadra-trenerska"><h3>Kadra trenerska</h3></a></li>
             
         
       
@@ -119,7 +111,7 @@
 
         
             
-                <li class="header-item "><a href="http://www.boks-zabierzow.pl/kontakt"><h3>Kontakt</h3></a></li>
+                <li class="header-item " id="kontakt"><a href="http://www.boks-zabierzow.pl/kontakt"><h3>Kontakt</h3></a></li>
             
         
       
@@ -128,7 +120,16 @@
 
         
             
-                <li class="header-item "><a href="http://www.boks-zabierzow.pl/klub"><h3>O klubie</h3></a></li>
+                <li class="header-item " id="o_klubie"><a href="http://www.boks-zabierzow.pl/klub"><h3>O klubie</h3></a></li>
+            
+        
+      
+        
+        
+
+        
+            
+                <li class="header-item " id="sponsorzy"><a href="http://www.boks-zabierzow.pl/sponsorzy"><h3>Sponsorzy</h3></a></li>
             
         
       
@@ -172,6 +173,10 @@
         <li><a href="http://www.boks-zabierzow.pl/klub"><h3>O klubie</h3></a></li>
       
     
+      
+        <li><a href="http://www.boks-zabierzow.pl/sponsorzy"><h3>Sponsorzy</h3></a></li>
+      
+    
   </ul>
 </nav>
 
@@ -180,10 +185,23 @@
 
 
 <div id="main" role="main">
-  <article class="hentry">
-    <div class="entry-content">
+	<div class="side-banner">
+	<a href="http://www.boks-zabierzow.pl"><img
+		style="height: 200px; margin-top: -40px; display: block; position: absolute; z-index: 1000"
+		src="http://www.boks-zabierzow.pl/images/AndrzejFirst.png"
+		alt="Andrzej First, logo, boks" /></a>
+	<div style="margin-top: 190px">
+		<p>Sponsorzy:</p>
+		<a href="http://metmix.com.pl" target="_blank"><img
+			src="http://www.boks-zabierzow.pl/images/metmix_190.png" alt="Metmix" /></a>
+	</div>
+
+</div>
+
+   <div class="main-content">
+  	<article class="hentry hentry-dark">
       <h1 class="post-title entry-title">Udany występ zawodniczki Bokserskiego Klubu Sportowego SMOK ZABIERZÓW</h1>
-      <p>W sobotę 29 września 2018 r. w Myślenicach odbył się turniej bokserski Grand Prix Małopolski w boksie olimpijskim. W turnieju brała udział Monika Puzio, zawodniczka Bokserskiego Klubu Sportowego SMOK ZABIERZÓW.</p>
+      <div class="entry-content"><p>W sobotę 29 września 2018 r. w Myślenicach odbył się turniej bokserski Grand Prix Małopolski w boksie olimpijskim. W turnieju brała udział Monika Puzio, zawodniczka Bokserskiego Klubu Sportowego SMOK ZABIERZÓW.</p>
 
 <p>Monika startowała w kategorii wagowej 64 kg i wygrała na punkty z Marią Tomczyk z Klubu Bokserskiego Tiger Tarnów.</p>
 
@@ -192,16 +210,16 @@
 <figure class="center">
 	<img src="/images/2018/09/turniej-myslenice-1.jpg" alt="Kraków, Zabierzów, boks, Monik Puzio" />
 </figure>
-
+</div>
+      </article>  
     </div><!-- /.entry-content -->
-  </article>
-</div><!-- /#main -->
+
+</div>
 
 <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
 <script type="text/javascript">window.jQuery || document.write('<script type="text/javascript" src="http://www.boks-zabierzow.pl/assets/js/vendor/jquery-1.9.1.min.js"><\/script>')</script>
 <script type="text/javascript" src="http://www.boks-zabierzow.pl/assets/js/scripts.min.js"></script>
 <script type="text/javascript" async defer id="github-bjs" src="https://buttons.github.io/buttons.js"></script>
-<script type="text/javascript">!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
 
 
 
